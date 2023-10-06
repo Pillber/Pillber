@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on:
+  - GetReal: 3D puzzle game built in Godot
+  - Raven: Cross-compatible programming language written in Rust
+
+
+🌱 I’m currently learning
+  - Rust
+  - C++
+
+
+💬 Ask me about
+  - Godot
+  - My games!
